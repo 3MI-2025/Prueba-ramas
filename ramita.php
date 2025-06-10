@@ -7,6 +7,7 @@
 </head>
 <body>
     
+<h1>Tabla</h1>
 <table>
     <thead>
         <tr>
