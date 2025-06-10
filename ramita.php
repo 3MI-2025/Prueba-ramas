@@ -8,6 +8,9 @@
 <body>
     
 <h1>Tabla</h1>
+
+<img src="/imagen.png" alt="">
+
 <table>
     <thead>
         <tr>
